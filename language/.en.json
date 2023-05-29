@@ -217,6 +217,9 @@
       ]
     },
     {
+      "label": "Text for add a solution custom"
+    },
+    {
       "label": "Text for \"Show solutions\" button",
       "default": "Show solution"
     },

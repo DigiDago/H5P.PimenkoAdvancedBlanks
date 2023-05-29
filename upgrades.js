@@ -1,6 +1,6 @@
 var H5PUpgrades = H5PUpgrades || {};
 
-H5PUpgrades['H5P.AdvancedBlanks'] = (function () {
+H5PUpgrades['H5P.PimenkoAdvancedBlanks'] = (function () {
   return {
     /**
      * Move disableImageZooming from behaviour to media

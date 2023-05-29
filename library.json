@@ -1,13 +1,13 @@
 {
-  "title": "Advanced fill the blanks",
+  "title": "Advanced fill the blanks - pimenko version",
   "description": "Fill the blanks exercise with individual feedback",
-  "majorVersion": 1,
+  "majorVersion": 0,
   "minorVersion": 1,
-  "patchVersion": 0,
+  "patchVersion": 10,
   "runnable": 1,
-  "author": "S. Rettig",
+  "author": "Original - S. Rettig - Edited by Pimenko",
   "license": "MIT",
-  "machineName": "H5P.AdvancedBlanks",
+  "machineName": "H5P.PimenkoAdvancedBlanks",
   "coreApi": {
     "majorVersion": 1,
     "minorVersion": 6

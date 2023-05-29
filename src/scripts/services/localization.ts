@@ -5,7 +5,8 @@
   notFilledOutWarning = "notFilledOut",
   tipButton ="tipLabel",
   typoMessage = "spellingMistakeWarning",
-  scoreBarLabel = "scoreBarLabel"  
+  scoreBarLabel = "scoreBarLabel",
+  solutionCustomText = "solutionCustomText"
 }
 
 export enum LocalizationStructures {

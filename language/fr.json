@@ -216,6 +216,9 @@
       ]
     },
     {
+      "label": "Texte pour afficher une « solution personnalisée »"
+    },
+    {
       "label": "Texte du bouton \"Voir la correction\"",
       "default": "Voir la correction"
     },
