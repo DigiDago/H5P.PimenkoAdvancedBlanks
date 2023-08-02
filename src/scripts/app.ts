@@ -260,7 +260,7 @@ export default class AdvancedBlanks extends (H5P.Question as { new(): any; }) {
 
             var htmlcontent = "<div class='h5p-question-solutioncustomtext'>" + htmlcontentsolutiontext.textContent + "</div>";
             var feedbackContainer = document.querySelector(".h5p-question-feedback");
-            feedbackContainer.insertAdjacentHTML("afterbegin", htmlcontent);
+            feedbackContainer.innerHTML = htmlcontent;
         }
     }
 
